@@ -32,56 +32,7 @@ O SinPatinhas foi desenvolvido com base em ampla escuta social e contou com apoi
 
 ## 👥 Integrantes
 
-<p align="center">
-<table>
-  <tr>
-    <td align="center" width="150">
-      <a href="https://github.com/antonioscarvalho">
-        <img src="https://github.com/antonioscarvalho.png?size=150" width="120" style="border-radius:50%;" />
-        <br/><b>Antonio Carvalho</b>
-      </a>
-    </td>
-    <td align="center" width="150">
-      <a href="https://github.com/Heloisa-Santos">
-        <img src="https://github.com/Heloisa-Santos.png?size=150" width="120" style="border-radius:50%;" />
-        <br/><b>Heloísa Santos </b>
-      </a>
-    </td>
-    <td align="center" width="150">
-      <a href="https://github.com/ispratamena250">
-        <img src="https://github.com/ispratamena250.png?size=150" width="120" style="border-radius:50%;" />
-        <br/><b>Isaac Menezes Pereira</b>
-      </a>
-    </td>
-    <td align="center" width="150">
-      <a href="https://github.com/leticiakrpaiva">
-        <img src="https://github.com/leticiakrpaiva.png?size=150" width="120" style="border-radius:50%;" />
-        <br/><b>Letícia Paiva</b>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="150">
-      <a href="https://github.com/LuGit00">
-        <img src="https://github.com/LuGit00.png?size=150" width="120" style="border-radius:50%;" />
-        <br/><b>Luciano Machado</b>
-      </a>
-    </td>
-    <td align="center" width="150">
-      <a href="https://github.com/14luke08">
-        <img src="https://github.com/14luke08.png?size=150" width="120" style="border-radius:50%;" />
-        <br/><b>Mateus Santos Negrini</b>
-      </a>
-    </td>
-    <td align="center" width="150">
-      <a href="https://github.com/pedrog0">
-        <img src="https://github.com/pedrog0.png?size=150" width="120" style="border-radius:50%;" />
-        <br/><b>Pedro Gomes Oliveira</b>
-      </a>
-    </td>
-  </tr>
-</table>
-</p>
+<p align="center"> <table> <tr> <td align="center" width="150"> <a href="https://github.com/antonioscarvalho"> <img src="https://github.com/antonioscarvalho.png?size=140" width="80" style="border-radius:50%;" /> <br/><b>Antonio Carvalho</b> </a> </td> <td align="center" width="150"> <a href="https://github.com/Heloisa-Santos"> <img src="https://github.com/Heloisa-Santos.png?size=140" width="80" style="border-radius:50%;" /> <br/><b>Heloísa Santos</b> </a> </td> <td align="center" width="150"> <a href="https://github.com/ispratamena250"> <img src="https://github.com/ispratamena250.png?size=140" width="80" style="border-radius:50%;" /> <br/><b>Isaac Menezes</b> </a> </td> <td align="center" width="150"> <a href="https://github.com/leticiakrpaiva"> <img src="https://github.com/leticiakrpaiva.png?size=140" width="80" style="border-radius:50%;" /> <br/><b>Letícia Paiva</b> </a> </td> <td align="center" width="150"> <a href="https://github.com/LuGit00"> <img src="https://github.com/LuGit00.png?size=140" width="80" style="border-radius:50%;" /> <br/><b>Luciano Machado</b> </a> </td> <td align="center" width="150"> <a href="https://github.com/14luke08"> <img src="https://github.com/14luke08.png?size=140" width="80" style="border-radius:50%;" /> <br/><b>Mateus Negrini</b> </a> </td> <td align="center" width="150"> <a href="https://github.com/pedrog0"> <img src="https://github.com/pedrog0.png?size=140" width="80" style="border-radius:50%;" /> <br/><b>Pedro Gomes</b> </a> </td> </tr> </table> </p>
 
 ---
 
@@ -92,8 +43,8 @@ Durante o desenvolvimento do **SinPatinhas**, serão utilizadas as seguintes fer
 - **Versionamento e Repositório:** GitHub  
 - **Documentação:** MkDocs Material + GitHub Pages  
 - **Design e Prototipação:** Figma, Canva  
-- **Comunicação e Reuniões:** WhatsApp, Discord  
-- **Gravação de Reuniões:** OBS Studio  
+- **Comunicação e Reuniões:** WhatsApp, Teams  
+- **Gravação de Reuniões:** Teams  
 - **Mídia:** YouTube  
 - **Editor de Código:** Visual Studio Code  
 
